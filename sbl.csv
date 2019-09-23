@@ -1,3 +1,5 @@
-num,name,price,value,link
-1,GoPro Hero 7 Black,320,7,https://www.gopro.com/
-2,Lews Mach Crush,200,6,https://www.lews.com/
+Name,Price,Value,Link
+GoPro Hero 7 Black,320,7,https://www.gopro.com/
+Lews Mach Crush,200,6,https://www.lews.com/
+Razer Huntsman Elite Keyboard,198,6,https://www.razer.com/
+Dell Docking Station (Thunderbolt3),170,9,https://dell.com/
